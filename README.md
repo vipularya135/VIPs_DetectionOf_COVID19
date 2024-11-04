@@ -3,7 +3,7 @@
 This repository contains code and resources for COVID-19 detection using deep learning models. The project explores various deep learning architectures, including CNN, ResNet-50, and DCGAN, with additional techniques like data augmentation, denoising, and variational autoencoders (VAE) for improved performance in detecting COVID-19 from X-ray images.
 
 # Contents
-VAE.py: Implementation of Variational Autoencoder (VAE) for COVID-19 dataset generation.
+VAE.py: Implementation of Variational Autoencoder (VAE) for COVID-19 dataset generation. \\
 covid_19_Detection.pdf: A detailed report discussing the methodologies, data, and results of the detection project.
 data-augmentation.py: Code for data augmentation techniques to enhance the dataset and improve model performance.
 dcgan.py: Implementation of Deep Convolutional GAN (DCGAN) for synthetic data generation.
