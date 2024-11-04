@@ -21,3 +21,6 @@ unzip.py: Helper script to unzip and organize the dataset folder structure.
 
 # Project Overview
 COVID-19 has had a global impact, and rapid, accurate detection is crucial for containing its spread. This project aims to leverage deep learning for effective COVID-19 detection from chest X-ray images. By implementing various architectures and techniques, it compares the effectiveness of different models in identifying COVID-19 infections.
+
+# Results and Evaluation
+Refer to covid_19_Detection.pdf for a comprehensive analysis of model performance and comparisons.
