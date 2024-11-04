@@ -1,0 +1,23 @@
+              precision    recall  f1-score   support
+
+COVID           0.90      0.88      0.89        92
+Normal          0.93      0.94      0.93       130
+
+accuracy                           0.92       222
+macro avg       0.92      0.91      0.91       222
+weighted avg    0.92      0.92      0.92       222
+
+              precision    recall  f1-score   support
+
+COVID           0.84      0.82      0.83        92
+Normal          0.89      0.89      0.89       130
+
+accuracy                           0.87       222
+macro avg       0.87      0.86      0.86       222
+weighted avg    0.87      0.87      0.87       222
+
+
+
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2024-10-07 202919.png"
+
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2024-10-07 202834.png"
